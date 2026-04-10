@@ -8,10 +8,10 @@
 
 ## ✈️ 항공편
 
-| 구간 | 날짜 | 시간 |
-|------|------|------|
-| 김해 → 깜란 공항 | 5/4 (월) | 10:55 ~ 13:35 |
-| 깜란 공항 → 김해 | 5/10 (일) | 03:10 ~ 09:50 |
+| 구간 | 날짜 | 시간 | 정보 링크 |
+|------|------|------|----------|
+| 김해(PUS) → 깜란(CXR) | 5/4 (월) | 10:55 ~ 13:35 | [VietJet 검색](https://www.vietjetair.com/ko/pages/schedule?departure=PUS&arrival=CXR&departureDate=2026-05-04&adult=2&child=0&infant=0&flightType=one-way) |
+| 깜란(CXR) → 김해(PUS) | 5/10 (일) | 03:10 ~ 09:50 | [VietJet 검색](https://www.vietjetair.com/ko/pages/schedule?departure=CXR&arrival=PUS&departureDate=2026-05-10&adult=2&child=0&infant=0&flightType=one-way) |
 
 ---
 
