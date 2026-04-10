@@ -53,24 +53,24 @@
 
 ---
 
-### 5/6 (수) — 나짱 자유일
+### 5/6 (수) — 나짱 체크아웃 → 뚜이호야 이동
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
 | 오전 | **Thap Ba 머드 스파** | [공식 사이트](https://thapba.com.vn/) | [지도](https://www.google.com/maps/search/Thap+Ba+Hot+Spring+Nha+Trang) |
 | 점심 | **반깐** (조개/새우 미니 쌀전) — 길거리 간식 | | [검색](https://www.google.com/maps/search/Bánh+căn+Nha+Trang) |
-| 오후 | **모터바이크 렌트** — 해안도로 드라이브 | | [검색](https://www.google.com/maps/search/motorbike+rental+Nha+Trang) |
-| 저녁 | **넴느엉 나트랑** (돼지꼬치 + 라이스페이퍼 쌈) | | [검색](https://www.google.com/maps/search/Nem+nướng+Nha+Trang) |
+| 오후 | 나짱 체크아웃 → 뚜이호야 이동 (버스 or 그랩, 약 3~4시간) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) | |
+| 저녁 | Rosa Alba Resort 체크인 / **반호이 롱헤오** or 참치 구이 | | [검색](https://www.google.com/maps/search/Bánh+hỏi+lòng+heo+Tuy+Hòa) |
 
 ---
 
-### 5/7 (목) — 나짱 → 뚜이호야 이동
+### 5/7 (목) — 뚜이호야 자유일
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
-| 오전 | 체크아웃 전 카페 (에그커피 or 코코넛 커피) | | [검색](https://www.google.com/maps/search/egg+coffee+Nha+Trang) |
-| 낮 | 뚜이호야 이동 (버스 or 그랩, 약 3~4시간) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) | |
-| 저녁 | **반호이 롱헤오** or 참치 구이 | | [검색](https://www.google.com/maps/search/Bánh+hỏi+lòng+heo+Tuy+Hòa) |
+| 오전 | **모터바이크 렌트** — 해안도로 드라이브 | | [검색](https://www.google.com/maps/search/motorbike+rental+Tuy+Hoa) |
+| 점심 | **넴느엉** or 참치요리 | | [검색](https://www.google.com/maps/search/Nem+nướng+Tuy+Hòa) |
+| 저녁 | 호텔 근처 해산물 식당 | | [지도](https://maps.app.goo.gl/6bqTheux2DJ2FSxm9) |
 
 ---
 
