@@ -10,10 +10,10 @@
 
 > ⚠️ 항공편 일정은 변동될 수 있음 — 실시간 상태 확인: [trip.com VietJet 실황](https://kr.trip.com/flights/status/vj/)
 
-| 구간 | 날짜 | 시간 | 정보 링크 |
-|------|------|------|----------|
-| 김해(PUS) → 깜란(CXR) | 5/4 (월) | 10:55 ~ 13:35 | [VietJet 검색](https://www.vietjetair.com/ko/pages/schedule?departure=PUS&arrival=CXR&departureDate=2026-05-04&adult=2&child=0&infant=0&flightType=one-way) |
-| 깜란(CXR) → 김해(PUS) | 5/10 (일) | 03:10 ~ 09:50 | [VietJet 검색](https://www.vietjetair.com/ko/pages/schedule?departure=CXR&arrival=PUS&departureDate=2026-05-10&adult=2&child=0&infant=0&flightType=one-way) |
+| 구간 | 편명 | 날짜 | 시간 | 정보 링크 |
+|------|------|------|------|----------|
+| 김해(PUS) → 깜란(CXR) | VJ919 | 5/4 (월) | 10:55 ~ 13:35 | [VietJet 검색](https://www.vietjetair.com/ko/pages/schedule?departure=PUS&arrival=CXR&departureDate=2026-05-04&adult=2&child=0&infant=0&flightType=one-way) |
+| 깜란(CXR) → 김해(PUS) | VJ918 | 5/10 (일) | 03:10 ~ 09:50 | [VietJet 검색](https://www.vietjetair.com/ko/pages/schedule?departure=CXR&arrival=PUS&departureDate=2026-05-10&adult=2&child=0&infant=0&flightType=one-way) |
 
 ---
 
