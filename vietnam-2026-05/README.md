@@ -64,7 +64,7 @@
 
 ### 5/5 (화) — 나트랑 섬 투어
 
-![나트랑 해변](https://upload.wikimedia.org/wikipedia/commons/9/9b/Nha_Trang_Beach%2C_Vietnam.jpg)
+![나트랑 해변](figs/nha-trang-beach.jpg)
 
 > ⚠️ 베트남 어린이날 공휴일 — 투어 미리 예약 필요
 
@@ -99,9 +99,9 @@
 
 ### 5/8 (금) — 뚜이호야 풀코스
 
-![가잉다디아 현무암 절벽](https://upload.wikimedia.org/wikipedia/commons/d/d2/Ghenh_Da_Dia_01.jpg)
+![가잉다디아 현무암 절벽](figs/ghenh-da-dia.jpg)
 
-![오로안 석호](https://upload.wikimedia.org/wikipedia/commons/7/70/%C4%90%E1%BA%A7m_%C3%94_Loan%2C_An_Hi%E1%BB%87p%2C_Tuy_An%2C_Ph%C3%BA_Y%C3%AAn.jpeg)
+![오로안 석호](figs/dam-o-loan.jpeg)
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
@@ -140,8 +140,6 @@
 
 ### 나트랑
 
-![분짜까](https://upload.wikimedia.org/wikipedia/commons/0/0d/Bun_cha_ca.jpg)
-
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
 | Louisiane Brewhouse | 바/맥주 | [공식 사이트](https://louisianebrewhouse.com.vn/) | [지도](https://www.google.com/maps/search/Louisiane+Brewhouse+Nha+Trang) | 해변 야외석, 자체 양조 맥주 |
@@ -151,8 +149,6 @@
 | 넴느엉 로컬 식당 | 로컬 고기요리 | | [검색](https://www.google.com/maps/search/Nem+nướng+Ninh+Hòa+Nha+Trang) | 실패 확률 낮은 대표 메뉴 |
 
 ### 뚜이호야
-
-![참치회](https://upload.wikimedia.org/wikipedia/commons/c/cf/Sashimi_platter.jpg)
 
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
@@ -164,8 +160,6 @@
 | Quán Hoa Sữa (Hải sản) | 해산물 | | [지도](https://maps.app.goo.gl/cx1FhmCwT6wQsHxs8) | 좋아보임 |
 
 ### 깜란
-
-![해산물](https://upload.wikimedia.org/wikipedia/commons/4/4b/Seafood_platter.jpg)
 
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
