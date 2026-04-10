@@ -8,12 +8,7 @@
 
 ## ✈️ 항공편
 
-<!-- 편명 정보 (변동 가능성 있음)
-  - 출발편: VJ919 (김해 → 깜란)
-  - 귀국편: VJ918 (깜란 → 김해)
--->
-
-> 항공편 실시간 상태 확인: [trip.com VietJet 실황](https://kr.trip.com/flights/status/vj/)
+> ⚠️ 항공편 일정은 변동될 수 있음 — 실시간 상태 확인: [trip.com VietJet 실황](https://kr.trip.com/flights/status/vj/)
 
 | 구간 | 날짜 | 시간 | 정보 링크 |
 |------|------|------|----------|
