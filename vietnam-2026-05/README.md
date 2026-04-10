@@ -154,7 +154,7 @@
 | | |
 |---|---|
 | ![분짜까](figs/restaurants/bun-cha-ca.jpg) | ![넴쭈아느엉](figs/restaurants/nem-nuong.jpg) |
-| **분짜까 (Bún chả cá)** — 생선·어묵이 실한 쌀국수, 나트랑 1번 메뉴 | **넴쭈아느엉 (Nem chua nướng)** — 발효 돼지고기 구이, 달콤한 칠리 소스 곁들임 |
+| **분짜까 (Bún chả cá)** — 생선·어묵이 실한 쌀국수 / 📍 *분짜까 로컬 식당 ([검색](https://www.google.com/maps/search/Bún+chả+cá+Nha+Trang))* | **넴쭈아느엉 (Nem chua nướng)** — 발효 돼지고기 구이, 달콤한 칠리 소스 / 📍 *넴느엉 로컬 식당 ([검색](https://www.google.com/maps/search/Nem+nướng+Ninh+Hòa+Nha+Trang))* |
 
 ### 뚜이호야
 
@@ -170,7 +170,7 @@
 | | |
 |---|---|
 | ![반호이 롱헤오](figs/restaurants/banh-hoi-long-heo.jpg) | ![해산물 구이](figs/restaurants/grilled-seafood.jpg) |
-| **반호이 롱헤오 (Bánh hỏi thịt quay)** — 얇은 쌀면+바삭하게 구운 돼지고기, 푸옌 대표음식 | **해산물 구이 스틱** — 고수 올린 신선한 새우 구이, 라임 칠리 디핑 소스 곁들임 |
+| **반호이 롱헤오 (Bánh hỏi thịt quay)** — 얇은 쌀면+바삭한 구운 돼지고기 / 📍 *반호이 롱헤오 로컬 식당 ([검색](https://www.google.com/maps/search/Bánh+hỏi+lòng+heo+Tuy+Hòa))* | **해산물 구이 스틱** — 신선한 새우 구이 + 라임 칠리 소스 / 📍 *Nhà Hàng Biển Xanh ([지도](https://maps.app.goo.gl/6bqTheux2DJ2FSxm9)) · Hải sản Năm Ánh ([지도](https://maps.app.goo.gl/ThSab7GakH19GSmW8))* |
 
 ### 깜란
 
@@ -182,7 +182,7 @@
 | | |
 |---|---|
 | ![깜란 쌀 요리](figs/restaurants/com-tam.jpg) | |
-| **Com Lua Moi 2 스타일** — 바삭한 돼지갈비+간장 조림 덮밥, 깜란 쏭슐랭 디너 | |
+| **쌀 요리 (Cơm tấm 계열)** — 바삭한 돼지갈비 덮밥 / 📍 *Com Lua Moi 2 ([지도](https://www.google.com/maps/search/Cơm+Lúa+Mới+2+Cam+Ranh)) — 영업 09:00~21:00* | |
 
 
 ---
