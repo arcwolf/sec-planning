@@ -149,7 +149,12 @@
 | Skylight | 루프탑 바 | | [지도](https://www.google.com/maps/search/Skylight+bar+Nha+Trang) | 야경 좋음, Havana Hotel 38F |
 | (항구 근처 해산물 식당) | 해산물 | | [검색](https://www.google.com/maps/search/해산물+나트랑+항구) | 무게로 주문 |
 | 분짜까 로컬 식당 | 로컬 면요리 | | [검색](https://www.google.com/maps/search/Bún+chả+cá+Nha+Trang) | 나트랑 대표 메뉴. 아침/점심 우선 추천 |
-| 넴느엉 로컬 식당 | 로컬 고기요리 | | [검색](https://www.google.com/maps/search/Nem+nướng+Ninh+Hòa+Nha+Trang) | 실패 확률 낮은 대표 메뉴 |
+| 넴느엉 로컬 식당 | 로컬 고기요리 | | [검색](https://www.google.com/maps/search/Nem+nướng+Ninh+Hòa+Nha+Trang) | 실패 확률 낮은 나트랑 대표 메뉴 |
+
+| | |
+|---|---|
+| ![분짜까](figs/restaurants/bun-cha-ca.jpg) | ![넴쭈아느엉](figs/restaurants/nem-nuong.jpg) |
+| **분짜까 (Bún chả cá)** — 생선·어묵이 실한 쌀국수, 나트랑 1번 메뉴 | **넴쭈아느엉 (Nem chua nướng)** — 발효 돼지고기 구이, 달콤한 칠리 소스 곁들임 |
 
 ### 뚜이호야
 
@@ -162,12 +167,23 @@
 | Hải sản Năm Ánh Phú Yên | 해산물 | | [지도](https://maps.app.goo.gl/ThSab7GakH19GSmW8) | 위 가게 바로 옆집 |
 | Quán Hoa Sữa (Hải sản) | 해산물 | | [지도](https://maps.app.goo.gl/cx1FhmCwT6wQsHxs8) | 좋아보임 |
 
+| | |
+|---|---|
+| ![반호이 롱헤오](figs/restaurants/banh-hoi-long-heo.jpg) | ![해산물 구이](figs/restaurants/grilled-seafood.jpg) |
+| **반호이 롱헤오 (Bánh hỏi thịt quay)** — 얇은 쌀면+바삭하게 구운 돼지고기, 푸옌 대표음식 | **해산물 구이 스틱** — 고수 올린 신선한 새우 구이, 라임 칠리 디핑 소스 곁들임 |
+
 ### 깜란
 
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
 | Com Lua Moi 2 | 쏭슐랭 디너 | | [지도](https://www.google.com/maps/search/Cơm+Lúa+Mới+2+Cam+Ranh) | 영업시간 09:00~21:00 주의 |
 | 깜란 해산물 로컬 식당 | 해산물 | | [검색](https://www.google.com/maps/search/hải+sản+Cam+Ranh) | 마지막 날 대체 후보 |
+
+| | |
+|---|---|
+| ![깜란 쌀 요리](figs/restaurants/com-tam.jpg) | |
+| **Com Lua Moi 2 스타일** — 바삭한 돼지갈비+간장 조림 덮밥, 깜란 쏭슐랭 디너 | |
+
 
 ---
 
