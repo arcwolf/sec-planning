@@ -20,7 +20,8 @@
 | 기간 | 숙소 | 링크 |
 |------|------|------|
 | 5/4~5/6 | V-4083A 발코니 2BR 아파트 (나짱 중심, 수영장·헬스장 포함) | [Airbnb](https://www.airbnb.co.kr/rooms/1036150846406967870) |
-| 5/7~5/9 | 디 엠피리언 깜란 비치 리조트 (The Empyrean Cam Ranh Beach Resort) | [Agoda](https://www.agoda.com/ko-kr/the-empyrean-cam-ranh-beach-resort/hotel/nha-trang-vn.html) |
+| 5/6~5/9 | Rosa Alba Resort & Villa (뚜이호야) | [Agoda](https://www.agoda.com/ko-kr/rosa-alba-resort/hotel/tuy-hoa-phu-yen-vn.html) |
+| 5/9~5/10 | 디 엠피리언 깜란 비치 리조트 (The Empyrean Cam Ranh Beach Resort) | [Agoda](https://www.agoda.com/ko-kr/the-empyrean-cam-ranh-beach-resort/hotel/nha-trang-vn.html) |
 
 ---
 
@@ -32,6 +33,7 @@
 |------|------|------|
 | 13:35 | 깜란 공항 도착 | — |
 | 14:00~15:00 | 깜란 공항 → 나짱 시내 이동 (그랩) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) |
+| 오후 | **Maryana Queen Spa** — 레게머리(헤어 블레이즈) | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) · [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) |
 | 저녁 | **분짜까** (어묵 국수) — 현지식 첫끼 | [검색](https://www.google.com/maps/search/Bún+chả+cá+Nha+Trang) |
 | 밤 | **Louisiane Brewhouse**에서 맥주 | [지도](https://www.google.com/maps/place/Lô+29+Trần+Phú,+Vĩnh+Hoà,+Nha+Trang) · [공식 사이트](https://louisianebrewhouse.com.vn/) |
 
@@ -136,6 +138,7 @@
 |------|------|------|------|
 | 4 Island Tour | 나짱 | [Klook 예약](https://www.klook.com/ko/activity/3053-4-island-boat-tour-nha-trang/) | 08:00 출발, 스노클링+낚시+해상 바 |
 | Thap Ba 머드 스파 | 나짱 | [지도](https://www.google.com/maps/place/Tháp+Bà+Hot+Spring+Center) · [웹사이트](https://thapba.com.vn/) | 예약 없이 가도 됨 |
+| Maryana Queen Spa (레게머리) | 나짱 | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) · [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) | 콩카페 근체. 영업 09:00~자정. 헤어 블레이즈 40,000동/가닥, 발마사지 180,000동 |
 | 모터바이크 렌트 | 나짱 | [검색](https://www.google.com/maps/search/motorbike+rental+Nha+Trang) | 국제면허 필요 |
 | 무이디엔 등대 | 뚜이호야 | [지도](https://www.google.com/maps/place/Mũi+Điện,+Đông+Hòa,+Phú+Yên) | 입장료 20,000 VND. 일출 보려면 04:30 출발 |
 | 가잉다디아 | 뚜이호야 | [지도](https://www.google.com/maps/place/Gành+Đá+Đĩa,+An+Ninh+Đông,+Tuy+An,+Phú+Yên) | 시내에서 35km |
