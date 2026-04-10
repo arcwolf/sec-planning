@@ -117,7 +117,7 @@
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
-| 10:00~12:00 | 뚜이호야 → 디 엠피리언 깜란 비치 리조트 이동 | | |
+| 오전~점심 (예상) | 뚜이호야 → 디 엠피리언 깜란 비치 리조트 이동 | | |
 | 12:00~17:00 | 리조트 수영장/해변 휴식 | | |
 | 17:00~21:00 | **쏭슐랭 디너** — Com Lua Moi 2 (마감 21:00, 일찍 가야 함) | | [지도](https://www.google.com/maps/search/Cơm+Lúa+Mới+2+Cam+Ranh) |
 | 이후 | 리조트에서 마지막 밤 | | |
@@ -128,7 +128,9 @@
 
 | 시간 | 일정 |
 |------|------|
-| 01:00 | 리조트 체크아웃 (공항 2시간 전 도착 목표) |
+| 01:00 | 리조트 체크아웃 |
+| 01:00~01:10 | 리조트 → 깜란 공항 이동 |
+| 01:10 | 깜란 공항 도착 (출발 2시간 전 도착 목표) |
 | 03:10 | 깜란 공항 출발 |
 | 09:50 | 김해 공항 도착 |
 
@@ -167,7 +169,7 @@
 |------|------|-----------|-----------|------|
 | 4 Island Tour | 나짱 | [Klook 예약](https://www.klook.com/ko/activity/3053-4-island-boat-tour-nha-trang/) | | 08:00 출발, 스노클링+낚시+해상 바 |
 | Thap Ba 머드 스파 | 나짱 | [공식 사이트](https://thapba.com.vn/) | [지도](https://www.google.com/maps/search/Thap+Ba+Hot+Spring+Nha+Trang) | 예약 없이 가도 됨 |
-| Maryana Queen Spa (레게머리) | 나짱 | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) | [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) | 콩카페 근체. 영업 09:00~자정. 헤어 블레이즈 40,000동/가닥, 발마사지 180,000동 |
+| Maryana Queen Spa (레게머리) | 나짱 | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) | [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) | 콩카페 근처. 영업 09:00~자정. 헤어 블레이즈 40,000동/가닥, 발마사지 180,000동 |
 | 모터바이크 렌트 | 뚜이호야 | | [검색](https://www.google.com/maps/search/motorbike+rental+Tuy+Hoa) | 국제면허 필요 |
 | 무이디엔 등대 | 뚜이호야 | [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g12616068-d11641766-Reviews-Mui_Dien_Lighthouse-Hoa_Tam_Dak_Lak_Province.html) | [지도](https://www.google.com/maps/place/Mũi+Điện,+Đông+Hòa,+Phú+Yên) | 입장료 20,000 VND. 일출 보려면 04:30 출발 |
 | 가잉다디아 | 뚜이호야 | [Wikipedia](https://en.wikipedia.org/wiki/Ganh_Da_Dia) | [지도](https://www.google.com/maps/place/Gành+Đá+Đĩa,+An+Ninh+Đông,+Tuy+An,+Phú+Yên) | 시내에서 35km |
