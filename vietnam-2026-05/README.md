@@ -43,6 +43,8 @@
 
 ### 5/5 (화) — 나짱 섬 투어
 
+![나짱 해변](https://upload.wikimedia.org/wikipedia/commons/9/9b/Nha_Trang_Beach%2C_Vietnam.jpg)
+
 > ⚠️ 베트남 어린이날 공휴일 — 투어 미리 예약 필요
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
@@ -76,12 +78,16 @@
 
 ### 5/8 (금) — 뚜이호야 풀코스
 
+![가잉다디아 현무암 절벽](https://upload.wikimedia.org/wikipedia/commons/d/d2/Ghenh_Da_Dia_01.jpg)
+
+![오로안 석호](https://upload.wikimedia.org/wikipedia/commons/7/70/%C4%90%E1%BA%A7m_%C3%94_Loan%2C_An_Hi%E1%BB%87p%2C_Tuy_An%2C_Ph%C3%BA_Y%C3%AAn.jpeg)
+
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
 | 06:00 이전 | **무이디엔 등대** — 베트남 최동단, 일출 | [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g12616068-d11641766-Reviews-Mui_Dien_Lighthouse-Hoa_Tam_Dak_Lak_Province.html) | [지도](https://www.google.com/maps/place/Mũi+Điện,+Đông+Hòa,+Phú+Yên) |
 | 오전 | **가잉다디아** — 육각형 현무암 절벽 | [Wikipedia](https://en.wikipedia.org/wiki/Ganh_Da_Dia) | [지도](https://www.google.com/maps/place/Gành+Đá+Đĩa,+An+Ninh+Đông,+Tuy+An,+Phú+Yên) |
 | 점심 | **참치 회/구이** — 푸옌 원양참치 | | [검색](https://www.google.com/maps/search/cá+ngừ+đại+dương+Tuy+Hòa) |
-| 오후 | **붕로 만** 스노클링 or **오로안 석호** 배 투어 | | [붕로](https://www.google.com/maps/place/Vũng+Rô,+Hòa+Xuân+Nam,+Đông+Hòa,+Phú+Yên) · [오로안](https://www.google.com/maps/place/Đầm+Ô+Loan,+An+Cư,+Tuy+An,+Phú+Yên) |
+| 오후 | **오로안 석호** 배 투어 | | [지도](https://www.google.com/maps/place/Đầm+Ô+Loan,+An+Cư,+Tuy+An,+Phú+Yên) |
 | 저녁 | **Nhà Hàng Biển Xanh** (호텔 근처 해산물) | | [지도](https://maps.app.goo.gl/6bqTheux2DJ2FSxm9) |
 
 ---
@@ -101,7 +107,7 @@
 
 | 시간 | 일정 |
 |------|------|
-| 01:30 | 리조트 체크아웃 |
+| 01:00 | 리조트 체크아웃 (공항 2시간 전 도착 목표) |
 | 03:10 | 깜란 공항 출발 |
 | 09:50 | 김해 공항 도착 |
 
@@ -141,7 +147,7 @@
 | 4 Island Tour | 나짱 | [Klook 예약](https://www.klook.com/ko/activity/3053-4-island-boat-tour-nha-trang/) | | 08:00 출발, 스노클링+낚시+해상 바 |
 | Thap Ba 머드 스파 | 나짱 | [공식 사이트](https://thapba.com.vn/) | [지도](https://www.google.com/maps/search/Thap+Ba+Hot+Spring+Nha+Trang) | 예약 없이 가도 됨 |
 | Maryana Queen Spa (레게머리) | 나짱 | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) | [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) | 콩카페 근체. 영업 09:00~자정. 헤어 블레이즈 40,000동/가닥, 발마사지 180,000동 |
-| 모터바이크 렌트 | 나짱 | | [검색](https://www.google.com/maps/search/motorbike+rental+Nha+Trang) | 국제면허 필요 |
+| 모터바이크 렌트 | 뚜이호야 | | [검색](https://www.google.com/maps/search/motorbike+rental+Tuy+Hoa) | 국제면허 필요 |
 | 무이디엔 등대 | 뚜이호야 | [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g12616068-d11641766-Reviews-Mui_Dien_Lighthouse-Hoa_Tam_Dak_Lak_Province.html) | [지도](https://www.google.com/maps/place/Mũi+Điện,+Đông+Hòa,+Phú+Yên) | 입장료 20,000 VND. 일출 보려면 04:30 출발 |
 | 가잉다디아 | 뚜이호야 | [Wikipedia](https://en.wikipedia.org/wiki/Ganh_Da_Dia) | [지도](https://www.google.com/maps/place/Gành+Đá+Đĩa,+An+Ninh+Đông,+Tuy+An,+Phú+Yên) | 시내에서 35km |
 | 붕로 만 | 뚜이호야 | | [지도](https://www.google.com/maps/place/Vũng+Rô,+Hòa+Xuân+Nam,+Đông+Hòa,+Phú+Yên) | 스노클링 가능 |
