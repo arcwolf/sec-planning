@@ -140,6 +140,8 @@
 
 ### 나트랑
 
+![분짜까](https://upload.wikimedia.org/wikipedia/commons/0/0d/Bun_cha_ca.jpg)
+
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
 | Louisiane Brewhouse | 바/맥주 | [공식 사이트](https://louisianebrewhouse.com.vn/) | [지도](https://www.google.com/maps/search/Louisiane+Brewhouse+Nha+Trang) | 해변 야외석, 자체 양조 맥주 |
@@ -149,6 +151,8 @@
 | 넴느엉 로컬 식당 | 로컬 고기요리 | | [검색](https://www.google.com/maps/search/Nem+nướng+Ninh+Hòa+Nha+Trang) | 실패 확률 낮은 대표 메뉴 |
 
 ### 뚜이호야
+
+![참치회](https://upload.wikimedia.org/wikipedia/commons/c/cf/Sashimi_platter.jpg)
 
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
@@ -160,6 +164,8 @@
 | Quán Hoa Sữa (Hải sản) | 해산물 | | [지도](https://maps.app.goo.gl/cx1FhmCwT6wQsHxs8) | 좋아보임 |
 
 ### 깜란
+
+![해산물](https://upload.wikimedia.org/wikipedia/commons/4/4b/Seafood_platter.jpg)
 
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
