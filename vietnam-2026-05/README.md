@@ -13,6 +13,8 @@
   - 귀국편: VJ918 (깜란 → 김해)
 -->
 
+> 항공편 실시간 상태 확인: [trip.com VietJet 실황](https://kr.trip.com/flights/status/vj/)
+
 | 구간 | 날짜 | 시간 | 정보 링크 |
 |------|------|------|----------|
 | 김해(PUS) → 깜란(CXR) | 5/4 (월) | 10:55 ~ 13:35 | [VietJet 검색](https://www.vietjetair.com/ko/pages/schedule?departure=PUS&arrival=CXR&departureDate=2026-05-04&adult=2&child=0&infant=0&flightType=one-way) |
