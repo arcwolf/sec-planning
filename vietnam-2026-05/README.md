@@ -20,7 +20,7 @@
 | 기간 | 숙소 | 링크 |
 |------|------|------|
 | 5/4~5/6 | V-4083A 발코니 2BR 아파트 (나짱 중심, 수영장·헬스장 포함) | [Airbnb](https://www.airbnb.co.kr/rooms/1036150846406967870) |
-| 5/9 | 디 엠피리언 깜란 비치 리조트 | [Agoda](https://www.agoda.com/ko-kr/the-empyrean-cam-ranh-beach-resort/hotel/nha-trang-vn.html) · [지도](https://maps.app.goo.gl/EmpyreanCamRanh) |
+| 5/7~5/9 | 디 엠피리언 깜란 비치 리조트 (The Empyrean Cam Ranh Beach Resort) | [Agoda](https://www.agoda.com/ko-kr/the-empyrean-cam-ranh-beach-resort/hotel/nha-trang-vn.html) |
 
 ---
 
