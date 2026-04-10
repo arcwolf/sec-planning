@@ -145,11 +145,15 @@
 | Louisiane Brewhouse | 바/맥주 | [공식 사이트](https://louisianebrewhouse.com.vn/) | [지도](https://www.google.com/maps/search/Louisiane+Brewhouse+Nha+Trang) | 해변 야외석, 자체 양조 맥주 |
 | Skylight | 루프탑 바 | | [지도](https://www.google.com/maps/search/Skylight+bar+Nha+Trang) | 야경 좋음, Havana Hotel 38F |
 | (항구 근처 해산물 식당) | 해산물 | | [검색](https://www.google.com/maps/search/해산물+나트랑+항구) | 무게로 주문 |
+| 분짜까 로컬 식당 | 로컬 면요리 | | [검색](https://www.google.com/maps/search/Bún+chả+cá+Nha+Trang) | 나트랑 대표 메뉴. 아침/점심 우선 추천 |
+| 넴느엉 로컬 식당 | 로컬 고기요리 | | [검색](https://www.google.com/maps/search/Nem+nướng+Ninh+Hòa+Nha+Trang) | 실패 확률 낮은 대표 메뉴 |
 
 ### 뚜이호야
 
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
+| 반호이 롱헤오 로컬 식당 | 로컬 식사 | | [검색](https://www.google.com/maps/search/Bánh+hỏi+lòng+heo+Tuy+Hòa) | 뚜이호야 대표 메뉴, 우선순위 높음 |
+| 참치 회/참치 구이 전문점 | 해산물 | | [검색](https://www.google.com/maps/search/cá+ngừ+đại+dương+Tuy+Hòa) | 푸옌 대표 먹거리, 최우선 후보 |
 | Bi Cá Câu | 해산물 | | [지도](https://maps.app.goo.gl/wqsZxQKGFGcrjWdi7) | 맛있어 보이는데 멀다고 함 |
 | Nhà Hàng Biển Xanh | 해산물 | | [지도](https://maps.app.goo.gl/6bqTheux2DJ2FSxm9) | 호텔 근처, 감성 있는 가게 |
 | Hải sản Năm Ánh Phú Yên | 해산물 | | [지도](https://maps.app.goo.gl/ThSab7GakH19GSmW8) | 위 가게 바로 옆집 |
@@ -160,6 +164,7 @@
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
 | Com Lua Moi 2 | 쏭슐랭 디너 | | [지도](https://www.google.com/maps/search/Cơm+Lúa+Mới+2+Cam+Ranh) | 영업시간 09:00~21:00 주의 |
+| 깜란 해산물 로컬 식당 | 해산물 | | [검색](https://www.google.com/maps/search/hải+sản+Cam+Ranh) | 마지막 날 대체 후보 |
 
 ---
 
