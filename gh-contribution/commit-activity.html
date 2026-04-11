@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>arcwolf / GitHub Activity (최근 한달)</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0d1117; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; padding: 32px; }
+  h1 { font-size: 18px; font-weight: 600; color: #e6edf3; margin-bottom: 6px; }
+  .subtitle { font-size: 13px; color: #7d8590; margin-bottom: 32px; }
+  .chart-wrap { overflow-x: auto; }
+  .chart { min-width: 900px; }
+  .header-row { display: flex; margin-bottom: 8px; }
+  .repo-label-header { width: 220px; flex-shrink: 0; }
+  .dates-header { display: flex; flex: 1; gap: 0; }
+  .date-label { font-size: 10px; color: #7d8590; text-align: center; flex: 1; white-space: nowrap; overflow: hidden; }
+  .row { display: flex; align-items: center; margin-bottom: 6px; }
+  .repo-label { width: 220px; flex-shrink: 0; font-size: 12px; color: #7d8590; padding-right: 12px; text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .repo-label a { color: #58a6ff; text-decoration: none; }
+  .repo-label a:hover { text-decoration: underline; }
+  .cells { display: flex; flex: 1; gap: 2px; }
+  .cell {
+    flex: 1;
+    height: 16px;
+    border-radius: 3px;
+    background: #161b22;
+    position: relative;
+    cursor: default;
+    transition: opacity 0.1s;
+  }
+  .cell:hover { opacity: 0.85; }
+  .cell[data-count="0"] { background: #161b22; }
+  .cell[data-level="1"] { background: #0e4429; }
+  .cell[data-level="2"] { background: #006d32; }
+  .cell[data-level="3"] { background: #26a641; }
+  .cell[data-level="4"] { background: #39d353; }
+  .divider { width: 1px; background: #21262d; margin: 0 4px; flex-shrink: 0; }
+  .legend { display: flex; align-items: center; gap: 6px; margin-top: 20px; font-size: 12px; color: #7d8590; }
+  .legend-cell { width: 14px; height: 14px; border-radius: 2px; }
+  .tooltip {
+    position: fixed;
+    background: #1c2128;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 12px;
+    pointer-events: none;
+    z-index: 999;
+    display: none;
+    white-space: nowrap;
+    color: #e6edf3;
+  }
+  .section-title { font-size: 11px; color: #7d8590; margin: 20px 0 8px 220px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid #21262d; padding-bottom: 4px; }
+  .week-separator { display: flex; align-items: center; }
+  .commit-count { font-size: 11px; color: #7d8590; min-width: 40px; text-align: right; padding-right: 8px; }
+</style>
+</head>
+<body>
+
+<h1>arcwolf — GitHub Commit Activity</h1>
+<div class="subtitle">2026-03-11 ~ 2026-04-11 · 최근 한달</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<div class="chart-wrap">
+<div class="chart" id="chart"></div>
+</div>
+
+<div class="legend">
+  Less
+  <div class="legend-cell" style="background:#161b22"></div>
+  <div class="legend-cell" style="background:#0e4429"></div>
+  <div class="legend-cell" style="background:#006d32"></div>
+  <div class="legend-cell" style="background:#26a641"></div>
+  <div class="legend-cell" style="background:#39d353"></div>
+  More
+</div>
+
+<script>
+const DATA = [
+  {"name":"dev-autotrade-bnf","url":"https://github.com/arcwolf/dev-autotrade-bnf","dates":["2026-03-26","2026-03-26","2026-03-26","2026-03-26","2026-03-27","2026-03-27","2026-03-27","2026-03-27","2026-03-27","2026-03-27","2026-04-01","2026-04-01","2026-04-01","2026-04-01","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-03","2026-04-03","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-05","2026-04-06","2026-04-06","2026-04-07","2026-04-07","2026-04-07","2026-04-07","2026-04-08","2026-04-08","2026-04-09","2026-04-09","2026-04-10","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11"]},
+  {"name":"dev-clihub","url":"https://github.com/arcwolf/dev-clihub","dates":["2026-03-26","2026-03-31","2026-03-31","2026-04-02","2026-04-03","2026-04-03","2026-04-04","2026-04-07","2026-04-07","2026-04-08","2026-04-08","2026-04-08","2026-04-08","2026-04-09","2026-04-09","2026-04-10","2026-04-10","2026-04-10","2026-04-11","2026-04-11","2026-04-11"]},
+  {"name":"note-superbrainstorming","url":"https://github.com/arcwolf/note-superbrainstorming","dates":["2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11"]},
+  {"name":"sec-planning","url":"https://github.com/arcwolf/sec-planning","dates":["2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-11"]},
+  {"name":"sec-finance","url":"https://github.com/arcwolf/sec-finance","dates":["2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11"]},
+  {"name":"rev-patents","url":"https://github.com/arcwolf/rev-patents","dates":["2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-06","2026-04-06"]},
+  {"name":"arcwolf.github.io","url":"https://github.com/arcwolf/arcwolf.github.io","dates":["2026-03-16","2026-03-17","2026-03-17","2026-03-19","2026-03-21","2026-03-22","2026-03-24","2026-03-24","2026-04-02","2026-04-04","2026-04-06"]},
+  {"name":"report-autotrade-bnf","url":"https://github.com/arcwolf/report-autotrade-bnf","dates":["2026-03-26","2026-03-26","2026-03-26","2026-03-26","2026-03-26","2026-03-26","2026-03-26"]},
+  {"name":"template-patent-application","url":"https://github.com/arcwolf/template-patent-application","dates":["2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30"]},
+  {"name":"guide-openclaw-on-windows10","url":"https://github.com/arcwolf/guide-openclaw-on-windows10","dates":["2026-03-29","2026-03-29","2026-03-29","2026-03-29","2026-03-29"]},
+  {"name":"report-clihub","url":"https://github.com/arcwolf/report-clihub","dates":["2026-03-25","2026-03-26","2026-03-31","2026-04-02"]}
+];
+
+// Generate date range
+const start = new Date("2026-03-11");
+const end = new Date("2026-04-11");
+const days = [];
+for (let d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
+  days.push(d.toISOString().slice(0, 10));
+}
+
+// Build commit map per repo
+const repoMaps = DATA.map(r => {
+  const map = {};
+  for (const d of r.dates) map[d] = (map[d] || 0) + 1;
+  return { ...r, map, total: r.dates.length };
+});
+
+// Level function
+function getLevel(count, max) {
+  if (count === 0) return 0;
+  if (count <= max * 0.15) return 1;
+  if (count <= max * 0.35) return 2;
+  if (count <= max * 0.65) return 3;
+  return 4;
+}
+
+const chart = document.getElementById("chart");
+const tooltip = document.getElementById("tooltip");
+
+// Header row
+const headerRow = document.createElement("div");
+headerRow.className = "header-row";
+const repoLabelHeader = document.createElement("div");
+repoLabelHeader.className = "repo-label-header";
+repoLabelHeader.style.width = "260px";
+headerRow.appendChild(repoLabelHeader);
+
+const datesHeader = document.createElement("div");
+datesHeader.className = "dates-header";
+datesHeader.style.flex = "1";
+datesHeader.style.display = "flex";
+
+// Show label every 7 days
+days.forEach((d, i) => {
+  const lbl = document.createElement("div");
+  lbl.className = "date-label";
+  if (i % 7 === 0) {
+    const dt = new Date(d);
+    lbl.textContent = `${dt.getMonth()+1}/${dt.getDate()}`;
+  }
+  datesHeader.appendChild(lbl);
+});
+headerRow.appendChild(datesHeader);
+chart.appendChild(headerRow);
+
+// Rows
+repoMaps.forEach(repo => {
+  const maxDay = Math.max(...days.map(d => repo.map[d] || 0));
+
+  const row = document.createElement("div");
+  row.className = "row";
+
+  const label = document.createElement("div");
+  label.className = "repo-label";
+  label.style.width = "220px";
+  label.innerHTML = `<a href="${repo.url}" target="_blank">${repo.name}</a>`;
+
+  const countBadge = document.createElement("span");
+  countBadge.style.cssText = "color:#7d8590;font-size:11px;margin-left:4px;";
+  countBadge.textContent = `(${repo.total})`;
+  label.appendChild(countBadge);
+
+  const cells = document.createElement("div");
+  cells.className = "cells";
+  cells.style.gap = "2px";
+
+  days.forEach((d, i) => {
+    const count = repo.map[d] || 0;
+    const level = getLevel(count, maxDay || 1);
+
+    const cell = document.createElement("div");
+    cell.className = "cell";
+    cell.dataset.count = count;
+    cell.dataset.level = level;
+    cell.style.minWidth = "10px";
+
+    cell.addEventListener("mouseenter", (e) => {
+      if (count > 0) {
+        tooltip.style.display = "block";
+        tooltip.innerHTML = `<strong>${repo.name}</strong><br>${d} — ${count} commit${count > 1 ? "s" : ""}`;
+      }
+    });
+    cell.addEventListener("mousemove", (e) => {
+      tooltip.style.left = (e.clientX + 12) + "px";
+      tooltip.style.top = (e.clientY - 28) + "px";
+    });
+    cell.addEventListener("mouseleave", () => {
+      tooltip.style.display = "none";
+    });
+
+    cells.appendChild(cell);
+  });
+
+  row.appendChild(label);
+  row.appendChild(cells);
+  chart.appendChild(row);
+});
+
+// Total activity bar
+const totalRow = document.createElement("div");
+totalRow.className = "row";
+totalRow.style.marginTop = "16px";
+const totalLabel = document.createElement("div");
+totalLabel.className = "repo-label";
+totalLabel.style.width = "220px";
+totalLabel.style.color = "#7d8590";
+totalLabel.style.fontSize = "11px";
+totalLabel.textContent = "전체 활동";
+
+const totalCells = document.createElement("div");
+totalCells.className = "cells";
+totalCells.style.gap = "2px";
+
+const totalByDay = {};
+days.forEach(d => {
+  totalByDay[d] = repoMaps.reduce((s, r) => s + (r.map[d] || 0), 0);
+});
+const maxTotal = Math.max(...Object.values(totalByDay));
+
+days.forEach(d => {
+  const count = totalByDay[d];
+  const level = getLevel(count, maxTotal);
+  const cell = document.createElement("div");
+  cell.className = "cell";
+  cell.dataset.count = count;
+  cell.dataset.level = level;
+  cell.style.minWidth = "10px";
+  cell.style.height = "20px";
+
+  cell.addEventListener("mouseenter", () => {
+    if (count > 0) {
+      tooltip.style.display = "block";
+      tooltip.innerHTML = `<strong>${d}</strong> — 전체 ${count} commits`;
+    }
+  });
+  cell.addEventListener("mousemove", (e) => {
+    tooltip.style.left = (e.clientX + 12) + "px";
+    tooltip.style.top = (e.clientY - 28) + "px";
+  });
+  cell.addEventListener("mouseleave", () => tooltip.style.display = "none");
+
+  totalCells.appendChild(cell);
+});
+
+totalRow.appendChild(totalLabel);
+totalRow.appendChild(totalCells);
+chart.appendChild(totalRow);
+</script>
+</body>
+</html>
