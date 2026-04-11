@@ -122,7 +122,7 @@
 |------|------|-----------|-----------|
 | 오전~점심 (예상) | 뚜이호야 → 디 엠피리언 깜란 비치 리조트 이동 | | |
 | 12:00~17:00 | 리조트 수영장/해변 휴식 | | |
-| 17:00~21:00 | **쏭슐랭 디너** — Com Lua Moi 2 (마감 21:00, 일찍 가야 함) | | [지도](https://www.google.com/maps/search/Cơm+Lúa+Mới+2+Cam+Ranh) |
+| 17:00~21:00 | **쏭슐랭 디너** — Thuy Nguyen Seafood Restaurant | | [지도](https://maps.app.goo.gl/JH4yQ46SFAdpqNSm9) |
 | 이후 | 리조트에서 마지막 밤 | | |
 
 ---
@@ -166,6 +166,7 @@
 | Nhà Hàng Biển Xanh | 해산물 | | [지도](https://maps.app.goo.gl/6bqTheux2DJ2FSxm9) | 호텔 근처, 감성 있는 가게 |
 | Hải sản Năm Ánh Phú Yên | 해산물 | | [지도](https://maps.app.goo.gl/ThSab7GakH19GSmW8) | 위 가게 바로 옆집 |
 | Quán Hoa Sữa (Hải sản) | 해산물 | | [지도](https://maps.app.goo.gl/cx1FhmCwT6wQsHxs8) | 좋아보임 |
+| Com Lua Moi 2 | 쏭슐랭 디너 | | [지도](https://www.google.com/maps/search/Cơm+Lúa+Mới+2+Tuy+Hoa) | 영업시간 09:00~21:00 주의. xứ Nẫu 향토 음식 |
 
 | | |
 |---|---|
@@ -176,7 +177,7 @@
 
 | 이름 | 종류 | 정보 링크 | 위치 링크 | 메모 |
 |------|------|-----------|-----------|------|
-| Com Lua Moi 2 | 쏭슐랭 디너 | | [지도](https://www.google.com/maps/search/Cơm+Lúa+Mới+2+Cam+Ranh) | 영업시간 09:00~21:00 주의 |
+| Thuy Nguyen Seafood Restaurant | 쏭슐랭 디너 | | [지도](https://maps.app.goo.gl/JH4yQ46SFAdpqNSm9) | Cam Hải Đông, Cam Lâm |
 | 깜란 해산물 로컬 식당 | 해산물 | | [검색](https://www.google.com/maps/search/hải+sản+Cam+Ranh) | 마지막 날 대체 후보 |
 
 | | |
