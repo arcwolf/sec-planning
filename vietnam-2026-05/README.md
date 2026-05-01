@@ -61,6 +61,7 @@
 | 14:00~15:00 | 깜란 공항 → 나트랑 시내 이동 (그랩) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) | |
 | 점심 | 나트랑 시내 도착 후 바로 현지식 점심 | | [검색](https://www.google.com/maps/search/음식점+나트랑+시내) |
 | 오후 | **Maryana Queen Spa** — 레게머리(헤어 블레이즈) | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) | [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) |
+| 오후 (레게 후) | **Museum of Oceanography** — 해양박물관 관람 | [공식 사이트](https://www.baotanghaihocvien.com.vn/) | [지도](https://www.google.com/maps/search/1+C%E1%BA%A7u+%C4%90%C3%A1+Nha+Trang) |
 | 저녁 | **분짜까** (어묵 국수) — 현지식 첫끼 | | [검색](https://www.google.com/maps/search/Bún+chả+cá+Nha+Trang) |
 | 밤 | **Louisiane Brewhouse**에서 맥주 | [공식 사이트](https://louisianebrewhouse.com.vn/) | [지도](https://www.google.com/maps/search/Louisiane+Brewhouse+Nha+Trang) |
 
