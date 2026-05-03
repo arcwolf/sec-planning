@@ -86,7 +86,7 @@
 |------|------|-----------|-----------|
 | 오전 | _(미정)_ | | |
 | 오후 | 나트랑 체크아웃 → 뚜이호야 이동 (버스 or 그랩, 약 3~4시간) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) | |
-| 저녁 | Rosa Alba Resort 체크인 / **반호이 롱헤오** or 참치 구이 | | [검색](https://www.google.com/maps/search/Bánh+hỏi+lòng+heo+Tuy+Hòa) |
+| 저녁 | Rosa Alba Resort 체크인 / _(미정)_ | | |
 
 ---
 
