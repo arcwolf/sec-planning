@@ -62,23 +62,21 @@
 | 점심 | 나트랑 시내 도착 후 바로 현지식 점심 | | [검색](https://www.google.com/maps/search/음식점+나트랑+시내) |
 | 오후 | **Maryana Queen Spa** — 레게머리(헤어 블레이즈) | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) | [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) |
 | 오후 (레게 후) | **Museum of Oceanography** — 해양박물관 관람 | [공식 사이트](https://www.baotanghaihocvien.com.vn/) | [지도](https://www.google.com/maps/search/1+C%E1%BA%A7u+%C4%90%C3%A1+Nha+Trang) |
-| 저녁 | **분짜까** (어묵 국수) — 현지식 첫끼 | | [검색](https://www.google.com/maps/search/Bún+chả+cá+Nha+Trang) |
-| 밤 | **Louisiane Brewhouse**에서 맥주 | [공식 사이트](https://louisianebrewhouse.com.vn/) | [지도](https://www.google.com/maps/search/Louisiane+Brewhouse+Nha+Trang) |
+| 저녁 | 저녁식사 (미정) | | |
+| 밤 | _(미정)_ | | |
 
 ---
 
-### 5/5 (화) — 나트랑 섬 투어
+### 5/5 (화) — 나트랑 자유일
 
 ![나트랑 해변](figs/nha-trang-beach.jpg)
 *나트랑 해변 전경*
 
-> ⚠️ 베트남 어린이날 공휴일 — 투어 미리 예약 필요
-
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
-| 08:00 | **4 Island Tour** 출발 (스노클링 + 낚시 + 해상 바) | [Klook 예약](https://www.klook.com/ko/activity/3053-4-island-boat-tour-nha-trang/) | |
-| 저녁 | 항구 근처 해산물 식당 (무게 주문) | | [검색](https://www.google.com/maps/search/해산물+나트랑+항구) |
-| 밤 | **Skylight 루프탑 바** — 야경 | | [지도](https://www.google.com/maps/search/Skylight+bar+Nha+Trang) |
+| 종일 | _(미정 — 자유 일정)_ | | |
+| 점심 | _(미정)_ | | |
+| 저녁 | _(미정)_ | | |
 
 ---
 
@@ -86,8 +84,7 @@
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
-| 오전 | **Thap Ba 머드 스파** | [공식 사이트](https://thapba.com.vn/) | [지도](https://www.google.com/maps/search/Thap+Ba+Hot+Spring+Nha+Trang) |
-| 점심 | **반깐** (조개/새우 미니 쌀전) — 길거리 간식 | | [검색](https://www.google.com/maps/search/Bánh+căn+Nha+Trang) |
+| 오전 | _(미정)_ | | |
 | 오후 | 나트랑 체크아웃 → 뚜이호야 이동 (버스 or 그랩, 약 3~4시간) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) | |
 | 저녁 | Rosa Alba Resort 체크인 / **반호이 롱헤오** or 참치 구이 | | [검색](https://www.google.com/maps/search/Bánh+hỏi+lòng+heo+Tuy+Hòa) |
 
@@ -98,7 +95,7 @@
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
 | 오전 | **모터바이크 렌트** — 해안도로 드라이브 | | [검색](https://www.google.com/maps/search/motorbike+rental+Tuy+Hoa) |
-| 점심 | **넴느엉** or 참치요리 | | [검색](https://www.google.com/maps/search/Nem+nướng+Tuy+Hòa) |
+| 점심 | _(미정)_ | | |
 | 저녁 | 호텔 근처 해산물 식당 | | [지도](https://maps.app.goo.gl/6bqTheux2DJ2FSxm9) |
 
 ---
