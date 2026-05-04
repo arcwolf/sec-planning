@@ -43,7 +43,7 @@
 
 | 기간 | 숙소 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
-| 5/4~5/6 | V-4083A 발코니 2BR 아파트 (나트랑 중심, 수영장·헬스장 포함) | [Airbnb](https://www.airbnb.co.kr/rooms/1036150846406967870) | |
+| 5/4~5/6 | V-4083A 발코니 2BR 아파트 (나트랑 중심, 수영장·헬스장 포함) | [Airbnb](https://www.airbnb.co.kr/rooms/1036150846406967870) | [지도](https://www.google.com/maps/search/41+Nguyen+Thi+Minh+Khai+Street,+Tan+Lap+Ward,+Nha+Trang+City) |
 | 5/6~5/9 | Rosa Alba Resort & Villa (뚜이호야) | [Agoda](https://www.agoda.com/ko-kr/rosa-alba-resort/hotel/tuy-hoa-phu-yen-vn.html) | [지도](https://www.google.com/maps/search/Rosa+Alba+Resort+Tuy+Hoa) |
 | 5/9~5/10 | 디 엠피리언 깜란 비치 리조트 (The Empyrean Cam Ranh Beach Resort) | [Agoda](https://www.agoda.com/ko-kr/the-empyrean-cam-ranh-beach-resort/hotel/nha-trang-vn.html) | [지도](https://www.google.com/maps/search/The+Empyrean+Cam+Ranh+Beach+Resort) |
 
