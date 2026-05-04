@@ -76,6 +76,7 @@
 | 오전 | _(미정)_ | | |
 | 점심 | _(미정)_ | | |
 | 오후 | **Museum of Oceanography** — 해양박물관 관람 | [공식 사이트](http://www.vnio.org.vn) | [지도](https://www.google.com/maps/search/Museum+of+Oceanography+Nha+Trang) |
+| 오후 (박물관 후) | 오징어전 간식 | | [지도](https://maps.app.goo.gl/ofdEeFhkDeSiAGVq8) |
 | 저녁 | _(미정)_ | | |
 
 ---
