@@ -61,7 +61,6 @@
 | 14:00~15:00 | 깜란 공항 → 나트랑 시내 이동 (그랩) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) | |
 | 점심 | 나트랑 시내 도착 후 바로 현지식 점심 | | [검색](https://www.google.com/maps/search/음식점+나트랑+시내) |
 | 오후 | **Maryana Queen Spa** — 레게머리(헤어 블레이즈) | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) | [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) |
-| 오후 (레게 후) | **Museum of Oceanography** — 해양박물관 관람 | [공식 사이트](https://www.baotanghaihocvien.com.vn/) | [지도](https://www.google.com/maps/search/1+C%E1%BA%A7u+%C4%90%C3%A1+Nha+Trang) |
 | 저녁 | 저녁식사 (미정) | | |
 | 밤 | _(미정)_ | | |
 
@@ -74,8 +73,9 @@
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
-| 종일 | _(미정 — 자유 일정)_ | | |
+| 오전 | _(미정)_ | | |
 | 점심 | _(미정)_ | | |
+| 오후 | **Museum of Oceanography** — 해양박물관 관람 | [공식 사이트](http://www.vnio.org.vn) | [지도](https://www.google.com/maps/search/Museum+of+Oceanography+Nha+Trang) |
 | 저녁 | _(미정)_ | | |
 
 ---
