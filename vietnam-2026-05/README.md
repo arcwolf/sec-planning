@@ -73,8 +73,8 @@
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
-| 오전 | _(미정)_ | | |
-| 점심 | _(미정)_ | | |
+| 10:00 | 식사 — **바 또이** | | [지도](https://maps.app.goo.gl/Vc1izonekKXqphZ57) |
+| 점심 | **포나가르 유적지** 방문 | | [지도](https://maps.app.goo.gl/x7G6dBRxsBqr6LQo8) |
 | 오후 | **Museum of Oceanography** — 해양박물관 관람 | [공식 사이트](http://www.vnio.org.vn) | [지도](https://www.google.com/maps/search/Museum+of+Oceanography+Nha+Trang) |
 | 오후 (박물관 후) | 오징어전 간식 | | [지도](https://maps.app.goo.gl/ofdEeFhkDeSiAGVq8) |
 | 저녁 | _(미정)_ | | |
