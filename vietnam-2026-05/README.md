@@ -43,7 +43,7 @@
 
 | 기간 | 숙소 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
-| 5/4~5/6 | Khách sạn VIRGO (나트랑) | | [지도](https://www.google.com/maps/search/41+Nguyen+Thi+Minh+Khai+Tan+Lap+Nha+Trang+Khanh+Hoa) |
+| 5/4~5/6 | Khách sạn VIRGO (나트랑) | | [지도](https://maps.app.goo.gl/CkUVsqwAZuJfa5jf6) |
 | 5/6~5/9 | Rosa Alba Resort & Villa (뚜이호야) | [Agoda](https://www.agoda.com/ko-kr/rosa-alba-resort/hotel/tuy-hoa-phu-yen-vn.html) | [지도](https://www.google.com/maps/search/Rosa+Alba+Resort+Tuy+Hoa) |
 | 5/9~5/10 | 디 엠피리언 깜란 비치 리조트 (The Empyrean Cam Ranh Beach Resort) | [Agoda](https://www.agoda.com/ko-kr/the-empyrean-cam-ranh-beach-resort/hotel/nha-trang-vn.html) | [지도](https://www.google.com/maps/search/The+Empyrean+Cam+Ranh+Beach+Resort) |
 
