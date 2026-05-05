@@ -86,7 +86,7 @@
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
 | 10:00 | 숙소 체크아웃 (Khách sạn VIRGO) | | |
-| 10:30~13:30 | 나트랑 → 뚜이호야 이동 (그랩 or 버스, 약 3시간) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) | |
+| 10:30~13:30 | 나트랑 → 뚜이호야 이동 (리무진 버스, 약 3시간) | | |
 | 14:00 | Rosa Alba Resort 체크인 | [Agoda](https://www.agoda.com/ko-kr/rosa-alba-resort/hotel/tuy-hoa-phu-yen-vn.html) | [지도](https://www.google.com/maps/search/Rosa+Alba+Resort+Tuy+Hoa) |
 | 저녁 | _(미정)_ | | |
 
