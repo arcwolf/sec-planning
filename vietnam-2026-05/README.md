@@ -76,8 +76,11 @@
 | 10:00 | 식사 — **바 또이** | | [지도](https://maps.app.goo.gl/Vc1izonekKXqphZ57) |
 | 점심 | **포나가르 유적지** 방문 | | [지도](https://maps.app.goo.gl/x7G6dBRxsBqr6LQo8) |
 | 오후 | **Museum of Oceanography** — 해양박물관 관람 | [공식 사이트](http://www.vnio.org.vn) | [지도](https://www.google.com/maps/search/Museum+of+Oceanography+Nha+Trang) |
-| 오후 (박물관 후) | 오징어전 간식 | | [지도](https://maps.app.goo.gl/ofdEeFhkDeSiAGVq8) |
-| 저녁 | _(미정)_ | | |
+| 오후 (박물관 후) | 당근주스 한 잔 | | |
+| 오후 식사 | 박물관 주변 현지 해산물 식사 | | |
+| 15:00~16:30 | 호텔 수영장에서 수영 | | |
+| 저녁 | 우렁이 대나무 찜, 피자와 맥주 | | |
+| 저녁 2차 | 베트남 김밥천국 식사 | | |
 
 ---
 
