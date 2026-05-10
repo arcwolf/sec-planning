@@ -88,10 +88,17 @@
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
+| 09:00~09:40 | 뚝배기 쌀국수 (아침) | | |
 | 10:00 | 숙소 체크아웃 (Khách sạn VIRGO) | | |
 | 10:30~13:30 | 나트랑 → 뚜이호야 이동 (리무진 버스, 약 3시간) | | |
 | 14:00 | Rosa Alba Resort 체크인 | [Agoda](https://www.agoda.com/ko-kr/rosa-alba-resort/hotel/tuy-hoa-phu-yen-vn.html) | [지도](https://www.google.com/maps/search/Rosa+Alba+Resort+Tuy+Hoa) |
-| 저녁 | _(미정)_ | | |
+| 14:20~15:00 | Tuy Hoa 마켓 구경, 간식(토하) 등 | | |
+| 15:00~15:30 | 현지 식사 (돼지고기 수육, 샐러드, 새우 스프) | | |
+| 15:45~16:15 | Co.opmart Tuy Hòa 장보기 | | [지도](https://maps.app.goo.gl/Sw9GhPzZth2cn4KG6) |
+| 16:30 | 숙소 귀환 | | |
+| 16:45~17:45 | Tuy Hoa 비치에서 수영 | | |
+| 19:00~20:30 | 해산물 가게 (1차) | | |
+| 20:45~22:00 | 소금개미, 돼지고기구이 졸맛탱 가게 (2차) | | |
 
 ---
 
