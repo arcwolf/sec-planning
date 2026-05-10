@@ -61,8 +61,8 @@
 | 14:00~15:00 | 깜란 공항 → 나트랑 시내 이동 (그랩) | [Grab 앱](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) | |
 | 점심 | 나트랑 시내 도착 후 바로 현지식 점심 | | [검색](https://www.google.com/maps/search/음식점+나트랑+시내) |
 | 오후 | **Maryana Queen Spa** — 레게머리(헤어 블레이즈) | [네이버 블로그](https://m.blog.naver.com/PostView.naver?blogId=mandoo1983&logNo=223365956278) | [지도](https://www.google.com/maps/search/Maryana+Queen+Spa+Nha+Trang) |
-| 저녁 | 저녁식사 (미정) | | |
-| 밤 | _(미정)_ | | |
+| 저녁 | 닭날개 바베큐 | | |
+| 밤 | 휴식 | | |
 
 ---
 
