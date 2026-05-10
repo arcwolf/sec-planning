@@ -137,15 +137,15 @@
 
 ---
 
-### 5/9 (토) — 뚜이호야 → 까란 리조트
+### 5/9 (토) — 뚜이호야 → 깜란 리조트
 
 | 시간 | 일정 | 정보 링크 | 위치 링크 |
 |------|------|-----------|-----------|
 | 10:20 | Rosa Alba Resort 체크아웃 | | |
 | 10:30~13:30 | 나트랑 시내 이동 | | |
-| 15:30~16:30 | 지선가주 닭발구이 대박맛집 | | [지도](https://maps.app.goo.gl/vuNEUk4ypSqev7w67) |
-| 18:00 | 디 엠피리언 까란 비치 리조트 체크인 | | |
-| 20:00~22:00 | **송슈랑 디너** — Thuy Nguyen Seafood Restaurant | | [지도](https://maps.app.goo.gl/JH4yQ46SFAdpqNSm9) |
+| 15:30~16:30 | 쩐가죠 닭발구이 대박맛집 | | [지도](https://maps.app.goo.gl/vuNEUk4ypSqev7w67) |
+| 18:00 | 디 엠피리언 깜란 비치 리조트 체크인 | [Agoda](https://www.agoda.com/ko-kr/the-empyrean-cam-ranh-beach-resort/hotel/nha-trang-vn.html) | [지도](https://www.google.com/maps/search/The+Empyrean+Cam+Ranh+Beach+Resort) |
+| 20:00~22:00 | **쏭슐랭 디너** — Thuy Nguyen Seafood Restaurant | | [지도](https://maps.app.goo.gl/JH4yQ46SFAdpqNSm9) |
 
 ---
 
